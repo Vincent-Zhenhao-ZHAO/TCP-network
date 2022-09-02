@@ -1,0 +1,73 @@
+2022-02-24 17:59:10,445 INFO MainThread root Server is doing its job...
+2022-02-24 17:59:40,524 INFO MainThread root chicken has joined in the server. The hostname is 127.0.0.1, the port is: 59778
+2022-02-24 17:59:40,524 INFO Thread-1 root chicken has joined in the server.
+ You have pushed into the server!!!!
+2022-02-24 17:59:59,259 INFO MainThread root ironman has joined in the server. The hostname is 127.0.0.1, the port is: 59780
+2022-02-24 17:59:59,260 INFO Thread-1 root ironman has joined in the server.
+2022-02-24 17:59:59,260 INFO Thread-1 root ironman has joined in the server.
+ You have pushed into the server!!!!
+2022-02-24 18:00:11,127 INFO Thread-1 root chicken: normal test begin
+2022-02-24 18:00:11,127 INFO Thread-1 root chicken: normal test begin
+2022-02-24 18:00:14,567 INFO Thread-1 root ironman: hello
+2022-02-24 18:00:14,567 INFO Thread-1 root ironman: hello
+2022-02-24 18:00:17,694 INFO Thread-1 root chicken: hello
+2022-02-24 18:00:17,694 INFO Thread-1 root chicken: hello
+2022-02-24 18:00:21,709 INFO Thread-1 root ironman: how's going
+2022-02-24 18:00:21,709 INFO Thread-1 root ironman: how's going
+2022-02-24 18:00:27,653 INFO Thread-1 root chicken: good, you?
+2022-02-24 18:00:27,653 INFO Thread-1 root chicken: good, you?
+2022-02-24 18:00:38,459 INFO Thread-1 root ironman: perfecto
+2022-02-24 18:00:38,459 INFO Thread-1 root ironman: perfecto
+2022-02-24 18:00:57,734 INFO Thread-1 root chicken: second test: one client left
+2022-02-24 18:00:57,734 INFO Thread-1 root chicken: second test: one client left
+2022-02-24 18:01:04,407 INFO Thread-1 root ironman: hi, I will leave now
+2022-02-24 18:01:04,407 INFO Thread-1 root ironman: hi, I will leave now
+2022-02-24 18:01:07,105 INFO Thread-2 root ironman has left the server.
+2022-02-24 18:01:07,105 INFO Thread-1 root ironman has left the server.
+2022-02-24 18:01:17,055 INFO Thread-1 root chicken: so it goes well
+2022-02-24 18:01:20,403 INFO MainThread root ironman has joined in the server. The hostname is 127.0.0.1, the port is: 59783
+2022-02-24 18:01:20,403 INFO Thread-1 root ironman has joined in the server.
+ You have pushed into the server!!!!
+2022-02-24 18:01:20,403 INFO Thread-1 root ironman has joined in the server.
+2022-02-24 18:01:24,538 INFO Thread-1 root ironman: I am back
+2022-02-24 18:01:24,538 INFO Thread-1 root ironman: I am back
+2022-02-24 18:01:59,362 INFO Thread-1 root ironman: next test: wrong port number, username,adnd hostnumber
+2022-02-24 18:01:59,362 INFO Thread-1 root ironman: next test: wrong port number, username,adnd hostnumber
+2022-02-24 18:02:14,027 INFO Thread-1 root chicken: okay, let's go
+2022-02-24 18:02:14,027 INFO Thread-1 root chicken: okay, let's go
+2022-02-24 18:02:25,376 INFO Thread-1 root ironman: first: only username, no others.
+2022-02-24 18:02:25,376 INFO Thread-1 root ironman: first: only username, no others.
+2022-02-24 18:02:27,568 WARNING MainThread root please give 3 values: username, hostname and port
+2022-02-24 18:02:33,284 INFO Thread-1 root ironman: looks good
+2022-02-24 18:02:33,284 INFO Thread-1 root ironman: looks good
+2022-02-24 18:02:44,580 INFO Thread-1 root chicken: how about no username?
+2022-02-24 18:02:44,580 INFO Thread-1 root chicken: how about no username?
+2022-02-24 18:02:59,861 WARNING MainThread root please give 3 values: username, hostname and port
+2022-02-24 18:03:07,743 INFO Thread-1 root ironman: not bad
+2022-02-24 18:03:07,743 INFO Thread-1 root ironman: not bad
+2022-02-24 18:03:23,185 INFO Thread-1 root ironman: so how about have these values but wrong port number?
+2022-02-24 18:03:23,185 INFO Thread-1 root ironman: so how about have these values but wrong port number?
+2022-02-24 18:03:51,114 INFO Thread-1 root ironman: it requests to input port number
+2022-02-24 18:03:51,114 INFO Thread-1 root ironman: it requests to input port number
+2022-02-24 18:03:54,450 INFO MainThread root Please choose new port.
+2022-02-24 18:03:54,451 INFO MainThread root tester has joined in the server. The hostname is 127.0.0.1, the port is: 59793
+2022-02-24 18:03:54,451 INFO Thread-1 root tester has joined in the server.
+2022-02-24 18:03:54,451 INFO Thread-1 root tester has joined in the server.
+2022-02-24 18:03:54,451 INFO Thread-1 root tester has joined in the server.
+ You have pushed into the server!!!!
+2022-02-24 18:04:03,989 INFO Thread-1 root ironman: so this part is good
+2022-02-24 18:04:03,989 INFO Thread-1 root ironman: so this part is good
+2022-02-24 18:04:03,990 INFO Thread-1 root ironman: so this part is good
+2022-02-24 18:04:22,740 INFO Thread-1 root tester: okay, what if the server is down?
+2022-02-24 18:04:22,740 INFO Thread-1 root tester: okay, what if the server is down?
+2022-02-24 18:04:22,740 INFO Thread-1 root tester: okay, what if the server is down?
+2022-02-24 18:04:28,114 ERROR MainThread root The server is down.
+2022-02-24 18:04:28,114 INFO Thread-1 root The server is down.
+2022-02-24 18:04:28,114 INFO Thread-1 root The server is down.
+2022-02-24 18:04:28,114 INFO Thread-1 root The server is down.
+2022-02-24 18:04:34,021 INFO Thread-1 root 
+2022-02-24 18:04:34,021 INFO Thread-1 root 
+2022-02-24 18:04:34,021 INFO Thread-1 root 
+2022-02-24 18:04:34,021 ERROR Thread-1 root The server is down, please connct again
+2022-02-24 18:04:34,021 ERROR Thread-1 root The server is down, please connct again
+2022-02-24 18:04:34,021 ERROR Thread-1 root The server is down, please connct again
